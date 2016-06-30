@@ -1,0 +1,23 @@
+{
+  "name": "todo.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipchan2/mean-todo.git"
+  },
+  "keywords": [
+    "mean",
+    "to-do"
+  ],
+  "author": "Phil Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillipchan2/mean-todo/issues"
+  },
+  "homepage": "https://github.com/phillipchan2/mean-todo#readme"
+}
