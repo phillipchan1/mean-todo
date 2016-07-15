@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/phillipchan2/mean-todo/issues"
   },
-  "homepage": "https://github.com/phillipchan2/mean-todo#readme"
+  "homepage": "https://github.com/phillipchan2/mean-todo#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "angular": "^1.5.7",
+    "body-parser": "1.15.2",
+    "mongoose": "4.5.3"
+  }
 }
